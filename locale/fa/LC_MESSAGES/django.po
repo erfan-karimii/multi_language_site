@@ -17,21 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-#. Translators: View verb
-#: test_app/templates/index.html:11
-msgid "this page is cool"
-msgstr "این صفحه باحاله"
 
-#: test_app/views.py:6
-msgid "yeeeh yo did it!"
-msgstr "ارههه تو تونستی"
+#: multi_language_project/settings.py:119
+msgid "english"
+msgstr "انگلیسی"
 
-#: test_app/views.py:7
-msgctxt "month name"
-msgid "may"
-msgstr "می"
-
-#: test_app/views.py:8
-msgctxt "possibility"
-msgid "may"
-msgstr "شاید"
+#: multi_language_project/settings.py:120
+msgid "persian"
+msgstr "فارسی"

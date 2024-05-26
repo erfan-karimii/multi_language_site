@@ -120,9 +120,6 @@ Languages = (
     ('fa',_('persian')),
 )
 
-Local_path = [
-    BASE_DIR / "Locale"
-]
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
